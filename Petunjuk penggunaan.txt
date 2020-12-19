@@ -2,6 +2,6 @@ Assalamualaikum pak, base_url() yang ada masih
 menggunakan route kami, kami harap bapak mengganti nya 
 dengan route bapak, agar program berjalan dengan baik. 
 
-- bapak bisa menggantinya di tugas-uas/application/config/config.php
+- Bapak bisa menggantinya di tugas-uas/application/config/config.php
 - Database juga telah kami sediakan dengan nama uas.sql di folder database
-- Untuk nama-nama anggota kelompok kami bapak bisa lihat pada bagian menu "Tentang Kelompok".
+- Untuk nama-nama anggota kelompok bapak bisa melihatnya pada bagian menu "Tentang Kelompok".
