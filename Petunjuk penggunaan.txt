@@ -4,3 +4,4 @@ dengan route bapak, agar program berjalan dengan baik.
 
 - bapak bisa menggantinya di tugas-uas/application/config/config.php
 - Database juga telah kami sediakan dengan nama uas.sql di folder database
+- Untuk nama-nama anggota kelompok kami bapak bisa lihat pada bagian menu "Tentang Kelompok".
